@@ -2,8 +2,8 @@
 
 **Clone this repo:**
 ```
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/skmda37/aiip.git
+cd aiip
 ```
 
 **Create virtual environment:**
