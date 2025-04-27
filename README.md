@@ -33,4 +33,4 @@ Note: you can of course also use a conda environment instead of a virtual enviro
 pip install -r requirements.txt
 ```
 
-**Try to solve the exercises and have fun ;)**
+**Have fun ;)**
