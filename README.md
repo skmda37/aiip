@@ -1,31 +1,25 @@
 # Instructions to get started with exercises
 
+If you are not familiar with python read `py_intro.md`
+
 **Clone this repo:**
 ```
 git clone https://github.com/skmda37/aiip.git
 cd aiip
 ```
 
-**Create virtual environment:**
+**Create a conda environment:**
 
 ```
-python -m venv venv
+conda create --name aiip python=3.10
 ```
 
-**Activate the virtual environment:**
-
-In macOS/linux:
-```
-source venv/bin/activate
-```
-
-In Windows:
+**Activate the conda environment:**
 
 ```
-venv\Scripts\activate
+conda activate aiip
 ```
 
-Note: you can of course also use a conda environment instead of a virtual environment.
 
 **Install dependencies:**
 
