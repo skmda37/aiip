@@ -99,7 +99,7 @@ a terminal window.
 **How are notebooks executed?** In Jupyter notebooks, you can have multiple code cells, which can be run individually. You do not have to run all the code in the notebook at once. However, all the variables, objects, functions, etc., which you create or change in a cell that you run, will be accessible or change in all the other cells. In other words, all the cells in a notebook share memory.
 
 ### Python, Numpy, Matplotlib Basics
-We need to get familiar with Python, Numpy, and Matplotlib. This is a good (tutorial)[https://colab.research.google.com/github/ffund/ml-notebooks/blob/master/notebooks/1-python-numpy-tutorial.ipynb#scrollTo=791ff577-24b4-4e64-8075-c8492e3592dd].
+We need to get familiar with Python, Numpy, and Matplotlib. This is a good [tutorial](https://colab.research.google.com/github/ffund/ml-notebooks/blob/master/notebooks/1-python-numpy-tutorial.ipynb#scrollTo=791ff577-24b4-4e64-8075-c8492e3592dd).
 
 
 ---
